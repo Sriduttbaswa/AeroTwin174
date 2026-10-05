@@ -1,0 +1,6 @@
+{
+  "name": "AeroTwin — Single-Pass Drone 3D Digital Twin Platform",
+  "description": "Generate inspectable, measurable, georeferenced and confidence-aware 3D spatial intelligence assets from a single drone video pass. Designed for SIH 26158 (NTRO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
